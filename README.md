@@ -4,8 +4,9 @@
 
 ## Contact and links
 
-<ulysse.chopard@gmail.com>
-[Linkedin](https//linkedin.com/in/ulysse-chopard)
+* <ulysse.chopard@gmail.com>
+* [Linkedin](https//linkedin.com/in/ulysse-chopard)
+* [Main Github Repo](https://github.com/UlysseChopard/)
 
 ---
 
