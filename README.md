@@ -45,7 +45,8 @@ Currently, I use these technos on a day-to-day basis :
   - Cors
   - Express-rate-limit
   - custom middlewares
-* Javascipt
+* Javascript
+  - ES6 and last features
 * Vue.js
   - Vue Router
   - VueX
@@ -63,7 +64,7 @@ Currently, I use these technos on a day-to-day basis :
 * CSS3
 * SASS/SCSS
 * Cypress
-* Unit and ntegration tools in JS :
+* Unit and integration tools in JS :
   - Jest
   - Mocha
   - Chai
