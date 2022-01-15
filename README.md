@@ -1,6 +1,6 @@
 # CV Ulysse Chopard
 
-![photo](./ulysse_chartres_mini.jpg "Ulysse Chopard trying to smile")
+<!-- ![photo](/ulysse_chartres_mini.jpg "Ulysse Chopard trying to smile") -->
 
 ## Contact and links
 
